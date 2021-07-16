@@ -4,7 +4,7 @@ Distro Ave is a cannabis wholesaler in California. I built this web app for them
 
 ## Client
 
-Running NextJS and Material UI. [View the live website here](https://distroave.co/).
+Running NextJS and Material UI. [View the live website here](https://distroave.co/). The portion of the website utilizing a backend is the [Buyer's Lounge](https://distroave.co/buyers).
 
 ## Server
 
