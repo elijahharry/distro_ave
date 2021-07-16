@@ -1,0 +1,15 @@
+.grey {
+  background-color: #f8f8f8;
+  width: 100%;
+}
+
+.flip {
+  -moz-transform: scaleX(-1) scaleY(-1);
+  -o-transform: scaleX(-1) scaleY(-1);
+  -webkit-transform: scaleX(-1) scaleY(-1);
+  transform: scaleX(-1) scaleY(-1);
+}
+
+.shadow {
+  filter: drop-shadow(0 0 0.75rem #4444dd);
+}
